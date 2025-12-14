@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Дневник привычек</string>
+    <string name="add_contact">Добавить</string>
+    <string name="save">Сохранить</string>
+    <string name="habit_name_hint">Название привычки</string>
+    <string name="description_hint">Описание привычки</string>
+    <string-array name="priority">
+        <item>low</item>
+        <item>mid</item>
+        <item>high</item>
+    </string-array>
+    <string name="radio1">Финансы</string>
+    <string name="radio2">Здоровье</string>
+    <string name="radio3">Саморазвитие</string>
+    <string name="howMany">Кол-во выполнений</string>
+    <string name="period">Переодичность</string>
+    <string name="rgb">RGB: %1$d, %2$d, %3$d</string>
+    <string name="hsv">"HSV: %1$d°, %2$d%%, %3$d%%</string>
+</resources>
